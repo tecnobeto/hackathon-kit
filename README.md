@@ -1,7 +1,8 @@
 # hackathon-kit
-Projeto para começar projetos de hackathons:
-  - Incluindo backend
-  - Inicio para aplicativo em ios 
+Projeto para começar projetos de hackathons incluindo:
+  - API em Node.js
+  - Start de aplicação para ios
+  - Start projeto em arduino
   - Landpage para o site.
 
 
