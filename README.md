@@ -1,9 +1,9 @@
 # hackathon-kit
 Projeto para começar projetos de hackathons incluindo:
   - API em Node.js
-  - Start de aplicação para ios
-  - Start projeto em arduino
-  - Landpage para o site.
+  - Start de aplicação para iOS
+  - Start projeto em arduino com BLE
+  - Landpage para o site
 
 
 
