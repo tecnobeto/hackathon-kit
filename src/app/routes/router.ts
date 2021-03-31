@@ -1,8 +1,8 @@
 import express from 'express';
-import ContactController from '../controller/user_controller';
+import UserController from '../controller/usercontroller';
 
 const router = express.Router();
-const routerContact = new ContactController();
+const routerContact = new UserController();
 
 router.get('/home', routerContact.get);
 router.post('/home/users', routerContact.post);

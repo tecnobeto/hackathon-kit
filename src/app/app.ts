@@ -1,8 +1,7 @@
 import express from 'express';
-import 'dotenv/config';
 import cors from 'cors';
 import router from './routes/router';
-import database from '../database/mongo';
+import database from '../mongodb/mongo';
 
 const app = express();
 
